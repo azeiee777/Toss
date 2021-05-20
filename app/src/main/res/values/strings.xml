@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toss</string>
+
+    <string name="head">Head</string>
+    <string name="tails">Tails</string>
+    <string name="all_rights_are_reserved">All rights are reseved</string>
+    <string name="aziz_traders">Aziz Traders @ 2021</string>
+</resources>
